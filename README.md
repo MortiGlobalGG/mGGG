@@ -8,4 +8,4 @@ My CheckList:
    +* genshin
    * i was here sasha234312
                   
-Nikita was here with Dxrkside
+- [x] Nikita was here with Dxrkside
