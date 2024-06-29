@@ -5,5 +5,5 @@ My CheckList:
    *  initial D
    *  evangelion
    * fortnite
-   +* genshin
+   * genshin
     
