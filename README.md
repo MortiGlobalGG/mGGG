@@ -12,3 +12,5 @@ My CheckList:
                   
 - [x] Nikita was here with Dxrkside
  coconut    (●'◡'●)
+- 🤖
+- 
